@@ -1,5 +1,10 @@
 # 📘 Caderno Temático: IA como ferramenta de aprendizagem aplicada à UX em produtos digitais
 
+![Status](https://img.shields.io/badge/Status-Concluído-success)
+![AI Tool](https://img.shields.io/badge/AI%20Tool-NotebookLM-blueviolet)
+![Focus](https://img.shields.io/badge/Focus-UX%20%26%20Engineering-orange)
+![Course](https://img.shields.io/badge/Education-DIO%20Course-red)
+
 ---
 
 ## 🎯 Contexto e Objetivos
@@ -16,6 +21,14 @@ Objetivos específicos:
 - Investigar aplicações de personalização e previsão de comportamento  
 - Desenvolver pensamento crítico na utilização de IA  
 - Consolidar um material de estudo com foco em aplicação prática  
+
+---
+
+## 📸 Demonstração do Projeto
+
+Aqui está um registro da interface do NotebookLM utilizada para a curadoria e análise das fontes técnicas:
+
+![Interface do NotebookLM](./NotebookLM_IAandUX.png)
 
 ---
 
