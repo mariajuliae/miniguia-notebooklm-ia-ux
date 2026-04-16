@@ -28,7 +28,7 @@ Objetivos específicos:
 
 Aqui está um registro da interface do NotebookLM utilizada para a curadoria e análise das fontes técnicas:
 
-![Interface do NotebookLM](./NotebookLM_IAandUX.png)
+![Interface do NotebookLM](./assests/NotebookLM_IAandUX.png)
 
 ---
 
